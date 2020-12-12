@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5340303a-61af-4852-9148-e09a35687209" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/BlogController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/blog/create.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog/create.html.twig" afterDir="false" />
     </list>
@@ -163,7 +162,10 @@
       <workItem from="1607415961321" duration="2780000" />
       <workItem from="1607537923112" duration="153000" />
       <workItem from="1607540113499" duration="1938000" />
-      <workItem from="1607592444748" duration="6472000" />
+      <workItem from="1607592444748" duration="7960000" />
+      <workItem from="1607676342428" duration="640000" />
+      <workItem from="1607679193517" duration="669000" />
+      <workItem from="1607790462395" duration="3317000" />
     </task>
     <servers />
   </component>
@@ -180,5 +182,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
